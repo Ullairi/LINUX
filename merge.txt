@@ -4,3 +4,4 @@ content to append
 #=======
 NEW INFO
 #>>>>>>> new_branch_to_merge_later
+rewrite

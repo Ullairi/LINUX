@@ -1,0 +1,3 @@
+This is my homework for Git task 17.
+Group: 280225-wdm
+Name: Liga3

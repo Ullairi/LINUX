@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+#<<<<<<< HEAD
+this is some content to mess with
+content to append
+#=======
+NEW INFO
+#>>>>>>> new_branch_to_merge_later
+rewrite
+#=======
+whrite
+#>>>>>>> new_branch_to_merge_later
